@@ -44,7 +44,7 @@ This project was developed as part of an academic assignment to demonstrate real
 ---
 
 ## 📂 Folder Structure
-
+```
 src/main/java/org/example/rideshare/
 ├── config/ # Security & JWT configurations
 ├── controller/ # API controllers
@@ -56,7 +56,7 @@ src/main/java/org/example/rideshare/
 ├── util/ # Utility classes (JWT util, etc.)
 src/main/resources/
 └── application.properties
-
+```
 ---
 
 ## ⚙️ Installation & Setup
@@ -64,7 +64,7 @@ src/main/resources/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/TanushShoor/rideshare.git
 cd <your-repo-name>
 ```
 
